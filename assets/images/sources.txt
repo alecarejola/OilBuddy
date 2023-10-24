@@ -1,0 +1,5 @@
+search-interface-symbol.png = Catalin Fertu in flaticon.com
+list.png = Chanut in flaticon.com
+user.png = Freepik in flaticon.com
+exclamation-mark.png = Pixel Buddha
+home.png = Dave Gandy
